@@ -1,1 +1,1 @@
-# test
+# tekkit lite server
