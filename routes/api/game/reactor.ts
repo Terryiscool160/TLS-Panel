@@ -1,4 +1,5 @@
 import { Handlers } from "$fresh/server.ts";
+import { DB } from "$fresh/db/db.ts";
 
 let LastInfo: unknown = {}
 
